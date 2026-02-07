@@ -1,0 +1,53 @@
+name: Pražské Pyvo
+city: praha
+start: 2026-02-18 18:30:00
+venue: na-venecku
+topic: "Cyber Resilience Act and Open-Source"
+number: 177
+description: |
+
+  ### Co tě čeká
+  
+  Sraz je v 18:30 hodin Na Věnečku, přednášky začínají v 19.00. Čeka nás 1 přednáška, lightning talky a volná zábava až do rána.
+
+  Lightning talk můžeš mít i ty! Registrace nutná na [Lightning Talks – bit.ly/prpylight](https://bit.ly/prpylight).
+ 
+
+  ### What to expect
+  
+  We meet up at 18:30 at the club Na Věnečku, presentations start at 19.00. You can look forward to 1 presentation, lightning talks and chit-chat until early morning.
+
+  You can have a lightning talk as well – please register at [Lightning Talks – bit.ly/prpylight](https://bit.ly/prpylight).
+
+  ### Obecné 
+  - Na Pyvu jsou přednášky většinou česky, pokud přijde někdo, kdo česky nerozumí, přepneme do angličtiny, pokud se na to přednášející cítí.
+  - Kromě nealko a alko pití je možné se Na Věnečku najíst. Nabídka je proměnlivá a obvykle jde o 4 až 7 jídel od toastu, párků, přes bramborák se zelím, dršťkovou polévku a smažák v housce až po guláš nebo řízek.
+  - **Nezapomeň s sebou vzít hotovost – neberou karty.**
+  - Na Věnečku zavírají o půlnoci.
+  
+  ### General
+  - Talks at Pyvo are mostly in Czech but it there’s somebody who doesn’t understand Czech talks are switched to English if the speaker is able to.
+  - **Cash only payments – club doesn’t accept cards.**
+  - Besides both soft drinks and beer it's possible to eat at the club. Choice is variable and consists of 4 to 7 options ranging from toast, sausages and soup to fried cheese in a bun, goulash or schnitzel.
+  - Club closes at midnight.
+
+talks:
+- title: "Cyber Resilience Act a Open-Source"
+  speakers:
+    - Kayla Eilhart
+  description: |
+    - jak vzniklo CRA a k čemu to je
+    - jak jsme málem přišli o open-source
+    - co zavádí CRA a příbuzná legislativa a regulace v souvislosti s open-source
+    - co nás ještě čeká za další legislativu a regulace spojené s fungováním open-source v EU
+    - odkazy na informace, pracovní skupiny a jak se účastnit legislativního procesu
+
+- title: "Cyber Resilience Act and Open-Source"
+  speakers:
+    - Kayla Eilhart
+  description: |
+    - how the CRA was created and what it is for
+    - how we almost lost open-source
+    - what the CRA and related legislation and regulation introduce in connection with open-source
+    - what further legislation and regulation related to the functioning of open-source in the EU awaits us
+    - links to information, working groups and how to participate in the legislative process
